@@ -1,13 +1,8 @@
-# LLMPoweredVirtualAgent-G78-PS24
+# LLMPoweredVirtualAgent
 Repo for GenAI powered Virtual Agent/IVR services
 
-Project Introductory Pesentations:<br>
-Archith : https://youtu.be/2v1Oz0HmwHI?si=PpCYEwbk1ND4Rt89<br>
-Sai Krishna : https://youtu.be/9bM44Zp02p8?si=yRQ72h7-VssusS7w<br>
+
 Yogeesh : https://youtu.be/5SJOkWH5hzU<br>
-Ajith : https://www.youtube.com/watch?v=Sb5rDoB4npQ<br>
-Niteesh : https://youtu.be/f5CO1wTaSQo?si=IRYG_8MpWKXF-ITG<br>
-Ritheesh : https://youtu.be/MOaFHHeIOCs<br>
 
 # WebRTC Voice Chat Application with Admin and User
 
