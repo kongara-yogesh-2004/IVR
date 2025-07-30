@@ -2,7 +2,7 @@
 Repo for GenAI powered Virtual Agent/IVR services
 
 
-Yogeesh : https://youtu.be/5SJOkWH5hzU<br>
+Yogesh : https://youtu.be/5SJOkWH5hzU<br>
 
 # WebRTC Voice Chat Application with Admin and User
 
